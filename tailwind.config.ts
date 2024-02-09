@@ -6,24 +6,9 @@ const config: Config = {
 	],
 	daisyui: {
 		themes: [
-			"luxury",
-			"nord",
-			// {
-			// 	lightTheme: {
-			// 		"primary": "#f4a261",
-			// 		"secondary": "#2a9d8f",
-			// 		"accent": "#e76f51",
-			// 		"neutral": "#264653",
-			// 		"base-100": "#f8eac7",
-			// 	},
-			// 	darkTheme: {
-			// 		"primary": "#2A9D8F",
-			// 		"secondary": "#E76F51",
-			// 		"accent": "#F4A261",
-			// 		"neutral": "#E9C46A",
-			// 		"base-100": "#264653",
-			// 	},
-			// },
+			"dark",
+			"pastel",
+
 		],
 	},
 	darkMode: 'class',
