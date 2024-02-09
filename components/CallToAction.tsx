@@ -8,7 +8,7 @@ const CallToAction = () => {
 					Elevate Your Story with Grey Way
 					<br />
 					<br />
-					Dive into a world where technology meets artistry, powered by faith. Whether it's a captivating and responsive web experience or timeless photographs, we are here to help you build your brand.
+					Dive into a world where technology meets artistry, powered by faith. Whether it&#39;s a captivating and responsive web experience or timeless photographs, we are here to help you build your brand.
 					<br />
 					<br />
 					Start Your Journey Today!
