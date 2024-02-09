@@ -11,7 +11,7 @@ const Navbar = () => {
 			</div>
 			<div className="navbar-center hidden lg:flex">
 				<Link href="/">
-					<Image src="/wide-logo-transparent.png" width={400} height={400} alt="Grey Way logo"/>
+					<Image src="/logos/wide-logo-transparent.png" width={400} height={400} alt="Grey Way logo"/>
 				</Link>
 			</div>
 			<div className="navbar-end">
